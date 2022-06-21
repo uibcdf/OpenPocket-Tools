@@ -23,7 +23,7 @@ and show the Voronoi tessellation in a plot similar to this:
 
 ![Example of Voronoi tessellation](example_2d_voronoi.png)
 
-Answer the following question: *What's the geometrical interpretation of the Voronoi diagram?*
+Answer the following question: **What's the geometrical interpretation of the Voronoi diagram?**
 
 ### Delaunay triangulation
 
@@ -34,7 +34,7 @@ triangles in the 2D space in a figure such as:
 
 You can also try to represent the Voronoi diagram and the Delaunay triangulation in the same plot.
 
-Answer the following question: *What's the geometrical interpretation of the Delaunay triangulation?*
+Answer the following question: **What's the geometrical interpretation of the Delaunay triangulation?**
 
 ### Convex Hull
 
@@ -43,7 +43,7 @@ line similar to the following?
 
 ![Example of convex hull](example_2d_convex_hull.png)
 
-Answer the following question: *What's the geometrical interpretation of the convex hull?*
+Answer the following question: **What's the geometrical interpretation of the convex hull?**
 
 ### To be continued...
 
