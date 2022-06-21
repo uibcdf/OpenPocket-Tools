@@ -6,7 +6,7 @@ cavities and grooves of a two dimensional molecular model.
 
 ## Tasks
 
-In a single jupyter lab, solve the following tasks in order.
+In a single jupyter notebook, with the help of Numpy, Matplotlib and Scipy, solve the following tasks in order.
 
 ### Random 2D molecular model
 
@@ -21,7 +21,9 @@ more discs. Once you have the spatial 2D coordinates of the $N$ discs, make a pl
 Given a random 2D molecular model, get the Voronoi diagram produced with the centers of the discs
 and show the Voronoi tessellation in a plot similar to this:
 
-![Example of Voronio tessellation](example_2d_voronoi.png)
+![Example of Voronoi tessellation](example_2d_voronoi.png)
+
+Answer the following question: *What's the geometrical interpretation of the Voronoi diagram?*
 
 ### Delaunay triangulation
 
@@ -30,14 +32,18 @@ triangles in the 2D space in a figure such as:
 
 ![Example of Delaunay triangulation](example_2d_delaunay.png)
 
-You can also try to represent the Voronoi diagram and the Delaunay triangulation in the same plot
+You can also try to represent the Voronoi diagram and the Delaunay triangulation in the same plot.
+
+Answer the following question: *What's the geometrical interpretation of the Delaunay triangulation?*
 
 ### Convex Hull
 
 ¿What's the convex hull of you 2D molecular model? ¿Could you show it as a continuous dashed blue
 line similar to the following?
 
-![Example of Convex Hull](example_2d_convex_hull.png)
+![Example of convex hull](example_2d_convex_hull.png)
+
+Answer the following question: *What's the geometrical interpretation of the convex hull?*
 
 ### To be continued...
 
